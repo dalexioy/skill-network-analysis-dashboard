@@ -1,0 +1,11 @@
+env/
+data/
+outputs/
+media/
+
+__pycache__/
+*.pyc
+db.sqlite3
+
+.vscode/
+.idea/
